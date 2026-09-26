@@ -1,0 +1,139 @@
+entity_id	business_name	business_address	country
+S2-05001	Acme Technology	4 Ave Jean Jaures, 69007 Lyon	France
+S2-05002	SUNRISE FOODS	5 Park Street, Kolkata, WB 700016 Near SBI ATM	IN
+S2-05003	Pacific Hardware	14 MG Rd, Bengaluru	India
+S2-05004	Nzmbus Software	230 Pine Ave, Seattle, WA 98101	US
+S2-05005	Summit Construction Corporation	22 Anna Salai, Chennai, TN 600002	India
+S2-05006	Lotus Textiles	88 Oak Rd, Chicago, IL 60601	United States
+S2-05007	Vertex Consulting	5 Park St, Kolkata, WB 700016	IN
+S2-05008	Vertex Consulting Pvt Ltd	5 Park St, Kolkata	IN
+S2-05009	Silver Oak Finance Inc.	2 Place Bellecour, 69002 Lyon	France
+S2-05010	Metro Auto Parts Pvt Ltd	5 Park Street, Kolkata, WB 700016	IN
+S2-05011	Bright SparknEducation	11 Connaught Place, New Delhi	IN
+S2-05012	Orion  Media	15 Broadway, New York, NY 10006	United States
+S2-05013	Maple Grocery	10 Rue de Rivoli, Paris	France
+S2-05014	Maple Grocery Inc.	10 Rue de Rivoli, 75001 Paris Ste 200	France
+S2-05015	PHOENIX APPAREL	5 Park Streetreet, Kolkata, WB 700016	India
+S2-05016	Canyon Coffee Inc.	12 Main St, Austin, TX 78701	United States
+S2-05017	Delta Packaging	5 Park St, Kolkata, WB 700016	IN
+S2-05018	Kaveri Mills Pvt Ltd	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05019	KAVERI MILLS	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05020	Ganga Traders Pvt Ltd	5 Park St, Kolkata	IN
+S2-05021	Sahara Electronics	88 Oak Rd, Chicago, IL 60601	United States
+S2-05022	Deccan Motors LLC	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	India
+S2-05023	Himalaya Spices	230 Pine Ave, Seattle, WA 98101	United States
+S2-05024	Anme Technology 1	4 Ave Jean Jaures, Lyon	France
+S2-05025	Sunrise  Foods  1	12 Main Street, Austin	United States
+S2-05026	Blue River Logistics 1	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S2-05027	Pacific Hardware 1	88 Oak Rd, Chicago, IL 60601	US
+S2-05028	Nimbus  Software  1	5 Park St, Kolkata, WB 700016 Near SBI ATM	India
+S2-05029	Grgen Leaf Pharma 1	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05030	Harbor Retakl 1	14 MG Road, Bengaluru Near SBI ATM	IN
+S2-05031	Sumrit Construction 1	230 Pine Ave, Seattle, WA 98101	US
+S2-05032	Lotus  Textiles  1	14 MG Rd, Bengaluru, KA 560001	India
+S2-05033	Vertex Consulting 1 Pvt Ltd	400 Market St, San Francisco, CA 94105	US
+S2-05034	Metro Auto Parts 1	230 Pine Ave, Seattle, WA 98101 Ste 200	US
+S2-05035	ORION MEDIA 1	5 Park Street, Kolkata, WB 700016 Near SBI ATM	IN
+S2-05036	Maple  Grocery  1	4 Ave Jean Jaures, 69007 Lyon	France
+S2-05037	Atlas Engineering s	11 Connaught Place, New Delhi, DL 110001	India
+S2-05038	Phoenix Apparel 1 Corporation	230 Pine Ave, Seattle, WA 98101	United States
+S2-05039	KAVERI MILLS 1	2 Place Bellecour, 69002 Lyon	France
+S2-05040	GANGA TRADERS 1	88 Oak Rd, Chicago, IL 60601	United States
+S2-05041	Sahara Electronics 1	11 Connaught Place, New Delhi, DL 110001	India
+S2-05042	Deccan Motors 1 Inc.	12 Main St, Austin, TX 78701	United States
+S2-05043	Blue River Logistics 2 Pvt Ltd	12 Main Street, Austin, TX 78701	US
+S2-05044	Nimbus Software 2	400 Market Street, San Francisco	US
+S2-05045	Green Leaf Pharma 2	18 Boulevard de la Liberte, 59000 Lille Ste 200	France
+S2-05046	Lotus Textiles 2 Pvt Ltd	230 Pine Ave, Seattle, WA 98101	US
+S2-05047	Silver Oak Finance 2	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05048	CedaruHealth Clinic 2	15 Broadway, New York, NY 10006	United States
+S2-05049	Cedar Health Clinic 2 Inc.	15 Broadway, New York Ste 200	United States
+S2-05050	Bright Spark Education 2	14 MG Road, Bengaluru	India
+S2-05051	Mqple Grocery 2	9 Rue Sainte Catherine, Bordeaux	France
+S2-05052	Atlas Engineering 2 LLC	230 Pine Ave, Seattle, WA 98101	US
+S2-05053	PHOENIX APPAREL 2	5 Park St, Kolkata	India
+S2-05054	Canyon Coffee 2 Inc.	12 Main St, Austin, TX 78701	US
+S2-05055	Devta Packaging 2	22 Anna Salai, Chennai	India
+S2-05056	Kaveri Mills 2 Pvt Ltd	9 Rue Sainte Catherine, 33000 Bordeaux	France
+S2-05057	Ganga Traders 2	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	India
+S2-05058	Sahara Electronics 2 LLC	88 Oak Rd, Chicago, IL 60601	US
+S2-05059	Deccan Motors 2	22 Anna Salai, Chennai, TN 600002	IN
+S2-05060	Himalaya Spices 2	15 Broadway, New York, NY 10006	US
+S2-05061	Sunrise Foods 3 Corporation	15 Broadway, New York Ste 200	US
+S2-05062	Blue  River  Logistics  3	11 Connaught Place, New Delhi, DL 110001	India
+S2-05063	Pacifkc Hardware 3	400 Market Street, San Francisco, CA 94105	United States
+S2-05064	Summit Constructfon 3	12 Main St, Austin, TX 78701 Ste 200	United States
+S2-05065	Lotus  Textiles  3	5 Park Streetreet, Kolkata, WB 700016	IN
+S2-05066	Lotus Textiles 3	5 Park St, Kolkata, WB 700016	IN
+S2-05067	Silver Oak Finance 3	2 Place Bellecour, 69002 Lyon	France
+S2-05068	Metro Auto Parts 3 Corporation	15 Broadway, New York, NY 10006	US
+S2-05069	Cedar  Health  Clinic  3	5 Park Street, Kolkata	IN
+S2-05070	Orion Media 3	7 Linking Rd, Mumbai, MH 400050 Near SBI ATM	India
+S2-05071	Orion Media 3 Corporation	7 Linking Rd, Mumbai	India
+S2-05072	Maple Grocery 3	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05073	Phoenix Apparel 3 Pvt Ltd	400 Market St, San Francisco, CA 94105	US
+S2-05074	Kaveri  Mills  3	9 Rue Sainte Catherine, 33000 Bordeaux Ste 200	France
+S2-05075	Ganga Traders 3	230 Pine Ave, Seattle Ste 200	US
+S2-05076	Sahara Electronics 3 LLC	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	IN
+S2-05077	Defcan Motors 3	230 Pine Ave, Seattle, WA 98101 Ste 200	United States
+S2-05078	Himalayt Spices 3	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	India
+S2-05079	ACME TECHNOLOGY 4	4 Ave Jean Jaures, Lyon	France
+S2-05080	Blue River Logistics 4	230 Pine Ave, Seattle, WA 98101	United States
+S2-05081	Blue River Logistics 4 Pvt Ltd	230 Pine Ave, Seattle, WA 98101	United States
+S2-05082	PACIFIC HARDWARE 4	11 Connaught Place, New Delhi, DL 110001	India
+S2-05083	Pacific Hardware 4 LLC	11 Connaught Place, New Delhi, DL 110001	India
+S2-05084	Nimbus Software 4 LLC	88 Oak Rd, Chicago, IL 60601	United States
+S2-05085	Summit Construction 4	14 MG Road, Bengaluru	IN
+S2-05086	Lotus Txxtiles 4	12 Main Street, Austin, TX 78701	US
+S2-05087	Lotus Textiles 4 Pvt Ltd	12 Main St, Austin, TX 78701	US
+S2-05088	Veptex Consulting 4	5 Park Streetreet, Kolkata, WB 700016	India
+S2-05089	Silver Oak Finance 4 Inc.	18 Boulevard de la Liberte, 59000 Lille	France
+S2-05090	Metro Auto Parts 4 LLC	7 Linking Road, Mumbai, MH 400050	India
+S2-05091	Cedar Health Clinic 4 Inc.	88 Oak Rd, Chicago	United States
+S2-05092	Bright Spark Educationz4	14 MG Road, Bengaluru, KA 560001	India
+S2-05093	Orion Media 4	230 Pine Ave, Seattle, WA 98101 Ste 200	US
+S2-05094	Maple Grocery 4 LLC	9 Rue Sainte Catherine, 33000 Bordeaux Ste 200	France
+S2-05095	Atlas Engineering 4 Pvt Ltd	400 Market Street, San Francisco, CA 94105	US
+S2-05096	Phoenix Apparel 4	5 Park St, Kolkata, WB 700016	IN
+S2-05097	CanyonqCoffee 4	12 Main Street, Austin, TX 78701	US
+S2-05098	Delta Packaging 4 Inc.	5 Park Streetreet, Kolkata, WB 700016 Near SBI ATM	India
+S2-05099	Distractor Harbor Retawl	2 Place Bellecour, 69002 Lyon	France
+S2-05100	Distractor Silver Oak Finance	400 Market Street, San Francisco, CA 94105	India
+S2-05101	DISTRACTOR DECCAN MOTORS	12 Main St, Austin, TX 78701	US
+S2-05102	Distractor Green Leaf Pharma Corporation	12 Main Street, Austin, TX 78701	India
+S2-05103	Distractor Summit Construction LLC	15 Broadway, New York, NY 10006	US
+S2-05104	Distractor Cedar Health Clinic Pvt Ltd	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S2-05105	DISTRACTOR ACME TECHNOLOGY	9 Rue Sainte Catherine, Bordeaux,  33000	US
+S2-05106	Distractor  Delta  Packaging	22 Anna Salai, 600002 Chennai	France
+S2-05107	Distractor Delta Packaging LLC	4 Ave Jean Jaures, Lyon,  69007	US
+S2-05108	Distractor Atlas Engineering	400 Market Street, San Francisco, CA 94105	India
+S2-05109	Distractor Deccan Motors	12 Main Street, Austin	US
+S2-05110	Distractor DeltaePackaging	9 Rue Sainte Catherine, Bordeaux,  33000	India
+S2-05111	Distractor Deccan wotors	5 Park Streetreet, Kolkata, WB 700016 Ste 200	US
+S2-05112	Distractor Harbor Retail Corporation	9 Rue Sainte Catherine, Bordeaux,  33000	India
+S2-05113	Distractor Green Leaf Pharma	4 Avenue Jean Jaures, 69007 Lyon	France
+S2-05114	Distractor Green Leaf Pharma	7 Linking Road, Mumbai, MH 400050	India
+S2-05115	Distractor Ganga Traders Pvt Ltd	2 Place Bellecour, Lyon	US
+S2-05116	Distractor Nimbus Softwaie	15 Broadway, New York, NY 10006	India
+S2-05117	Distractor Phoehix Apparel	18 Boulevard de la Liberte, Lille,  59000	US
+S2-05118	Distractor Phoenix Apparel	230 Pine Ave, Seattle Near SBI ATM	India
+S2-05119	Dvstractor Kaveri Mills	14 MG Road, Bengaluru, KA 560001	US
+S2-05120	Distractor Ganga Traders	230 Pine Ave, 98101 Seattle	France
+S2-05121	Distractor Metro Auto Pajts	9 Rue Sainte Catherine, Bordeaux,  33000	US
+S2-05122	Distractor Sahara Electronics	2 Place Bellecour, Lyon,  69002	India
+S2-05123	Distractor Delta Packagung	12 Main Street, Austin, TX 78701	US
+S2-05124	Distractor Atlas Engineering LLC	11 Connaught Place, New Delhi, DL 110001	India
+S2-05125	Distractor Deccan Motors Pvt Ltd	10 Rue de Rivoli, Paris,  75001 Ste 200	US
+S2-05126	DISTRACTOR DECCAN MOTORS	2 Place Bellecour, Lyon,  69002 Near SBI ATM	India
+S2-05127	Distrawtor Kaveri Mills	15 Broadway, New York	France
+S2-05128	Distractor Silver Oak Finance	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	India
+S2-05129	Distractor Ganga Traders	22 Anna Salai, Chennai Ste 200	US
+S2-05130	Distractor Deccan Motors Corporation	12 Main Street, Austin, TX 78701	India
+S2-05131	Distractor Phoenix Apparel LLC	12 Main St, Austin Ste 200	US
+S2-05132	Distractor Canyon Coffee	11 Connaught Place, New Delhi, DL 110001	India
+S2-05133	Distractor  Sunrise  Foods	230 Pine Ave, Seattle, WA 98101	US
+S2-05134	Distractor Sunrise Foods	18 Boulevard de la Liberte, 59000 Lille	France
+S2-05135	Distractor  Atlas  Engineering	88 Oak Rd, Chicago, IL 60601	US
+S2-05136	Distractor Deccan Motors	12 Main St, Austin, TX 78701 Near SBI ATM	India
+S2-05137	Distractor Ganga Traders	2 Place Bellecour, Lyon	US
+S2-05138	Distractor Harbor Retail Corporation	14 MG Rd, Bengaluru, KA 560001	India

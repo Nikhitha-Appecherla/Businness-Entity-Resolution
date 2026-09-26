@@ -1,0 +1,99 @@
+entity_id	business_name	business_address	country
+S3-00002	Acme Technology	12 Main Street, Austin, TX 78701 Ste 200	United States
+S3-00003	Blue River Logistics	88 Oak Rd, Chicago, IL 60601	US
+S3-00004	Nimbus Software LLC	88 Oak Rd, Chicago, IL 60601	US
+S3-00005	Vertex Consulting	22 Anna Salai, Chennai, TN 600002	India
+S3-00006	Atlas  Engineering	12 Main St, Austin, TX 78701	United States
+S3-00007	Phoenix cpparel	7 Linking Road, Mumbai Near SBI ATM	IN
+S3-00008	Delta Pagkaging	7 Linking Road, Mumbai, MH 400050	IN
+S3-00009	Kaveri Mills Corporation	230 Pine Ave, Seattle, WA 98101 Ste 200	US
+S3-00010	DECCAN MOTORS	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S3-00011	Pacific Hardware 1 Pvt Ltd	88 Oak Rd, Chicago, IL 60601	United States
+S3-00012	Green Leaf Pharma 1 Inc.	15 Broadway, New York, NY 10006	US
+S3-00013	Lotus Textiles 1	5 Park St, Kolkata, WB 700016	IN
+S3-00014	Metro  Auto  Parts  1	230 Pine Ave, Seattle, WA 98101	United States
+S3-00015	hrion Media 1	22 Anna Salai, Chennai, TN 600002	IN
+S3-00016	Himalaya Spices 1 Inc.	14 MG Rd, Bengaluru Near SBI ATM	IN
+S3-00017	Acme Technology 2	88 Oak Rd, Chicago, IL 60601	United States
+S3-00018	Summit Construction 2 Pvt Ltd	5 Park St, Kolkata, WB 700016	India
+S3-00019	Metro Auto Parts 2 Pvt Ltd	11 Connaught Place, New Delhi, DL 110001	IN
+S3-00020	Orion  Media  2	230 Pine Ave, Seattle, WA 98101	US
+S3-00021	MAPLE GROCERY 2	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	IN
+S3-00022	Sahara Electronics 2 LLC	88 Oak Rd, Chicago, IL 60601	United States
+S3-00023	Himalaya  Spices  2	400 Market St, San Francisco, CA 94105	United States
+S3-00024	Sunrise Foods 3	12 Main St, Austin, TX 78701	US
+S3-00025	SILVER OAK FINANCE 3	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	IN
+S3-00026	Cedar Health Clinic 3	14 MG Road, Bengaluru, KA 560001	IN
+S3-00027	Canyon Coffee 3 LLC	5 Park Street, Kolkata, WB 700016	India
+S3-00028	Deccan Motors 3	15 Broadway, New York, NY 10006	US
+S3-00029	Himalaya  Spices  3	22 Anna Salai, Chennai	India
+S3-00030	Nimbus  Software  4	230 Pine Ave, Seattle, WA 98101	United States
+S3-00031	Summit Construction 4	5 Park St, Kolkata, WB 700016 Near SBI ATM	IN
+S3-00032	Vertex Consulting 4	7 Linking Road, Mumbai, MH 400050	IN
+S3-00033	Orion Media 4	400 Market Streetreet, San Francisco	US
+S3-00034	Maple Grocery 4 LLC	7 Linking Road, Mumbai, MH 400050 Near SBI ATM	IN
+S3-00035	Canyon Coffee 4 Pvt Ltd	88 Oak Rd, Chicago, IL 60601	US
+S3-00036	Sahara Electronics 4 Pvt Ltd	15 Broadway, New York	United States
+S3-00037	Harbor Retail 5 Pvt Ltd	22 Anna Salai, Chennai, TN 600002	India
+S3-00038	Atlas Engineering 5 LLC	11 Connaught Place, New Delhi, DL 110001	IN
+S3-00039	Sahara Electronics 5 Pvt Ltd	22 Anna Salai, Chennai, TN 600002	India
+S3-00040	Acme Technology 6 Inc.	400 Market Street, San Francisco, CA 94105	US
+S3-00041	NIMBUS SOFTWARE 6	400 Market St, San Francisco, CA 94105	United States
+S3-00042	Green Leaf Pharma 6 Inc.	22 Anna Salai, Chennai	India
+S3-00043	Bright Spark Education 6 Inc.	22 Anna Salai, Chennai, TN 600002	India
+S3-00044	Orion Media 6 Inc.	400 Market St, San Francisco, CA 94105	US
+S3-00045	Canyon Coffee 6	88 Oak Rd, Chicago, IL 60601	United States
+S3-00046	Himalaya Spices 6	88 Oak Rd, Chicago	US
+S3-00047	Blue River Logistics 7	22 Anna Salai, Chennai, TN 600002	IN
+S3-00048	LOTUS TEXTILES 7	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S3-00049	VERTEX CONSULTING 7	400 Market St, San Francisco, CA 94105 Ste 200	US
+S3-00050	Silver Oak Finance 7 LLC	11 Connaught Place, New Delhi	IN
+S3-00051	Sahara Electronics 7 Corporation	11 Connaught Place, New Delhi	IN
+S3-00052	Acme Technology 8 Inc.	88 Oak Rd, Chicago, IL 60601	US
+S3-00053	Sunrise Foods 8 Corporation	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S3-00054	Pacific Hardware m	5 Park Street, Kolkata, WB 700016	IN
+S3-00055	Nimbus Software 8	88 Oak Rd, Chicago	US
+S3-00056	GREEN LEAF PHARMA 8	7 Linking Road, Mumbai, MH 400050	IN
+S3-00057	Summit Construction 8 Pvt Ltd	5 Park Street, Kolkata	India
+S3-00058	Silver pak Finance 8	400 Market St, San Francisco, CA 94105 Ste 200	United States
+S3-00059	Metro Auto Parts 8	11 Connaught Place, New Delhi	India
+S3-00060	Cedar Health Clinic 8	12 Main St, Austin, TX 78701 Ste 200	United States
+S3-00061	Bright Spark Education 8 Pvt Ltd	11 Connaught Place, New Delhi Near SBI ATM	India
+S3-00062	Phoenix Apparel 8	22 Anna Salai, Chennai, TN 600002	India
+S3-00063	Distractor  Harbor  Retail	230 Pine Ave, Seattle, WA 98101	US
+S3-00064	Distractor Sahara Electronics Inc.	12 Main Street, Austin, TX 78701	US
+S3-00065	Distuactor Atlas Engineering	7 Linking Rd, Mumbai, MH 400050 Ste 200	US
+S3-00066	Distractor Deccan Motors	14 MG Road, Bengaluru, KA 560001 Ste 200	US
+S3-00067	Distractor Pacific Hardware LLC	400 Market Street, San Francisco, CA 94105 Ste 200	US
+S3-00068	Distractor Cedar Health Clinic	22 Anna Salai, Chennai, TN 600002 Ste 200	US
+S3-00069	Distractor Blue River Logistics Pvt Ltd	11 Connaught Place, New Delhi, DL 110001	US
+S3-00070	Distractor Deccan Motors Corporation	7 Linking Rd, Mumbai	US
+S3-00071	Distractor Sunrise Foods	400 Market Street, San Francisco, CA 94105	US
+S3-00072	Distractor Cedar Health Clinic	230 Pine Ave, Seattle, WA 98101	US
+S3-00073	Distractor Deccan Motors Pvt Ltd	12 Main St, Austin, TX 78701 Ste 200	US
+S3-00074	Dhstractor Canyon Coffee	88 Oak Rd, Chicago, IL 60601 Ste 200	US
+S3-00075	Distractor Silver Oak Finance	12 Main St, Austin, TX 78701	US
+S3-00076	Distractor Bright Spark Education LLC	22 Anna Salai, Chennai, TN 600002	US
+S3-00077	Distractor Sahara Electronics Inc.	11 Connaught Place, New Delhi, DL 110001	US
+S3-00078	Distractor Blue River Logistics	14 MG Road, Bengaluru, KA 560001 Ste 200	US
+S3-00079	kistractor Cedar Health Clinic	400 Market St, San Francisco	US
+S3-00080	DISTRACTOR SILVER OAK FINANCE	11 Connaught Place, New Delhi, DL 110001 Ste 200	US
+S3-00081	Distractor Pacific Hardware Corporation	12 Main Street, Austin, TX 78701	US
+S3-00082	DISTRACTOR CEDAR HEALTH CLINIC	22 Anna Salai, Chennai Ste 200	US
+S3-00083	Distractor Ganga Traders	400 Market St, San Francisco, CA 94105	US
+S3-00084	Distractor Sahara Electronics	12 Main St, Austin	US
+S3-00085	Distractor Krveri Mills	88 Oak Rd, Chicago, IL 60601	US
+S3-00086	Distractor Bright Spark Education	400 Market Streetreet, San Francisco, CA 94105	US
+S3-00087	DISTRACTOR MAPLE GROCERY	12 Main St, Austin	US
+S3-00088	Distractor Lotus Textiles LLC	22 Anna Salai, Chennai, TN 600002	US
+S3-00089	Distractor MetrosAuto Parts	12 Main St, Austin, TX 78701 Ste 200	US
+S3-00090	Distractor potus Textiles	14 MG Road, Bengaluru, KA 560001	US
+S3-00091	Distractor Sahara Electronics Inc.	400 Market Streetreet, San Francisco, CA 94105 Ste 200	US
+S3-00092	DISTRACTOR DELTA PACKAGING	12 Main St, Austin, TX 78701	US
+S3-00093	Distractor Ganga Traders Corporation	14 MG Road, Bengaluru, KA 560001	US
+S3-00094	DISTRACTOR DELTA PACKAGING	7 Linking Rd, Mumbai	US
+S3-00095	Distractor Kaveri Mills	22 Anna Salai, Chennai, TN 600002	US
+S3-00096	Distractor Kaveri Mills LLC	400 Market St, San Francisco, CA 94105	US
+S3-00097	Distractor Harbor Retail Pvt Ltd	5 Park Street, Kolkata, WB 700016	US
+S3-00098	Distractor Green Leaf Pharma Pvt Ltd	14 MG Rd, Bengaluru, KA 560001	US
+S3-00099	Distractor Acme Technology	12 Main Street, Austin, TX 78701 Ste 200	US

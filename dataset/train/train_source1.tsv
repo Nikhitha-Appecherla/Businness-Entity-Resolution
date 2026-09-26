@@ -1,0 +1,221 @@
+entity_id	business_name	business_address	country
+S1-00001	Acme Technology Inc.	12 Main St, Austin Ste 200	United States
+S1-00002	Sunrise Foods Corporation	7 Linking Road, Mumbai	IN
+S1-00003	Blue River Logistics	88 Oak Rd, Chicago	US
+S1-00004	Pacific Hardware Inc.	7 Linking Road, Mumbai, MH 400050	IN
+S1-00005	Nimbus Software	88 Oak Rd, Chicago, IL 60601	US
+S1-00006	Green Leaf Pharma Inc.	7 Linking Road, Mumbai, MH 400050	IN
+S1-00007	Harbor Retail	12 Main St, Austin, TX 78701	US
+S1-00008	Summit Construction	14 MG Rd, Bengaluru, KA 560001	India
+S1-00009	Lotus Textiles Corporation	230 Pine Ave, Seattle	United States
+S1-00010	Vertex Consulting Corporation	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S1-00011	Silver Oak Finance LLC	15 Broadway, New York, NY 10006	US
+S1-00012	Metro Asto Parts	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S1-00013	Cedar Health Clinic	12 Main Street, Austin, TX 78701 Ste 200	United States
+S1-00014	Bright Spark Education Inc.	11 Connaught Place, New Delhi	India
+S1-00015	Orion  Media	88 Oak Rd, Chicago, IL 60601 Ste 200	US
+S1-00016	Maple Grocery Corporation	7 Linking Rd, Mumbai, MH 400050 Near SBI ATM	IN
+S1-00017	Atlas Engineering Inc.	12 Main St, Austin, TX 78701	United States
+S1-00018	Phoenix Apparel Inc.	7 Linking Road, Mumbai, MH 400050	IN
+S1-00019	Canyon Cohfee	15 Broadway, New York, NY 10006	United States
+S1-00020	Delta Packaging Pvt Ltd	7 Linking Road, Mumbai, MH 400050	IN
+S1-00021	Kaveri Mills	230 Pine Ave, Seattle, WA 98101	US
+S1-00022	Ganga Traders Corporation	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	India
+S1-00023	Sahara Electronics Pvt Ltd	12 Main Street, Austin, TX 78701 Ste 200	United States
+S1-00024	Deccan Motors Inc.	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S1-00025	Himalaya Spices	400 Market St, San Francisco, CA 94105	US
+S1-00026	Acme Technology 1 Inc.	22 Anna Salai, Chennai Near SBI ATM	IN
+S1-00027	Sunrfse Foods 1	12 Main Street, Austin, TX 78701	US
+S1-00028	Blue River Logistics 1 LLC	22 Anna Salai, Chennai, TN 600002	IN
+S1-00029	Pacific Hardware 1 LLC	88 Oak Rd, Chicago, IL 60601	United States
+S1-00030	NIMBUS SOFTWARE 1	11 Connaught Place, New Delhi, DL 110001	India
+S1-00031	Green Leaf Pharma 1 Inc.	15 Broadway, New York, NY 10006	US
+S1-00032	Harbor tetail 1	14 MG Road, Bengaluru, KA 560001	India
+S1-00033	Summit Construction 1 Inc.	12 Main St, Austin, TX 78701	United States
+S1-00034	Lotus Textiles 1	5 Park St, Kolkata, WB 700016	IN
+S1-00035	Vertex Consulting 1 LLC	88 Oak Rd, Chicago	United States
+S1-00036	Silver Oak Finance 1	7 Linking Rd, Mumbai, MH 400050	IN
+S1-00037	Metro Auto Parts 1	230 Pine Ave, Seattle, WA 98101	United States
+S1-00038	CEDAR HEALTH CLINIC 1	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	IN
+S1-00039	Bright Spark Education 1	15 Broadway, New York	United States
+S1-00040	ORION MEDIA 1	22 Anna Salai, Chennai, TN 600002	IN
+S1-00041	Maple Grocery 1	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00042	Atlas Engineering 1	7 Linking Road, Mumbai	IN
+S1-00043	PHOENIX APPAREL 1	230 Pine Ave, Seattle	US
+S1-00044	Canyon Coffee 1 LLC	11 Connaught Place, New Delhi, DL 110001	India
+S1-00045	Delta Packaging 1	400 Market Streetreet, San Francisco, CA 94105	US
+S1-00046	Kaveri  Mills  1	14 MG Road, Bengaluru, KA 560001	India
+S1-00047	Ganga Traders 1 Corporation	88 Oak Rd, Chicago, IL 60601 Ste 200	US
+S1-00048	Sahara Electronics 1 Inc.	5 Park Streetreet, Kolkata, WB 700016	IN
+S1-00049	Deccan Motors 1 LLC	15 Broadway, New York, NY 10006	US
+S1-00050	Himalaya Spices 1 Pvt Ltd	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	IN
+S1-00051	Arme Technology 2	88 Oak Rd, Chicago	United States
+S1-00052	Sunrise Foods 2	5 Park Street, Kolkata, WB 700016 Near SBI ATM	India
+S1-00053	Blue  River  Logistics  2	230 Pine Ave, Seattle, WA 98101	United States
+S1-00054	Pacific Hardware 2	7 Linking Road, Mumbai, MH 400050 Near SBI ATM	India
+S1-00055	Nimbus Software 2 Corporation	12 Main Street, Austin, TX 78701	US
+S1-00056	Green Leaf Pharma 2 Pvt Ltd	11 Connaught Place, New Delhi	India
+S1-00057	Harbor Retail 2 Corporation	230 Pine Ave, Seattle, WA 98101 Ste 200	US
+S1-00058	Summit Construction 2 Corporation	5 Park Street, Kolkata, WB 700016 Near SBI ATM	India
+S1-00059	LOTUS TEXTILES 2	400 Market Streetreet, San Francisco, CA 94105	US
+S1-00060	VERTEX CONSULTING 2	5 Park Streetreet, Kolkata Near SBI ATM	IN
+S1-00061	Silver Oak Finance 2	15 Broadway, New York, NY 10006	United States
+S1-00062	Metro  Auto  Parts  2	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S1-00063	CEDAR HEALTH CLINIC 2	230 Pine Ave, Seattle, WA 98101	US
+S1-00064	Bright Spark Education 2	5 Park St, Kolkata, WB 700016	IN
+S1-00065	ORION MEDIA 2	230 Pine Ave, Seattle, WA 98101	US
+S1-00066	Maple  Grocery  2	14 MG Road, Bengaluru, KA 560001	IN
+S1-00067	Atlas  Engineering  2	88 Oak Rd, Chicago Ste 200	US
+S1-00068	Phoenix Apparel 2 Corporation	5 Park Street, Kolkata, WB 700016 Near SBI ATM	India
+S1-00069	CANYON COFFEE 2	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00070	Delta Packaging 2 Pvt Ltd	22 Anna Salai, Chennai, TN 600002	IN
+S1-00071	Kaveri Mills 2	15 Broadway, New York, NY 10006	United States
+S1-00072	Ganga Traders 2 Corporation	11 Connaught Place, New Delhi, DL 110001	India
+S1-00073	Sahara Electronics 2	88 Oak Rd, Chicago	United States
+S1-00074	Deccan  Motors  2	22 Anna Salai, Chennai, TN 600002	India
+S1-00075	Himalaya Spices 2 Inc.	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00076	Acme Tech 3	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00077	Sunrise Foods r	12 Main St, Austin, TX 78701	US
+S1-00078	Blue River Logistics 3 LLC	14 MG Road, Bengaluru, KA 560001	IN
+S1-00079	Pacific  Hardware  3	400 Market Street, San Francisco, CA 94105	US
+S1-00080	Nimbus Software 3 Inc.	11 Connaught Place, New Delhi, DL 110001	India
+S1-00081	Green Leaf zharma 3	12 Main St, Austin	United States
+S1-00082	Harbor Retail 3	5 Park St, Kolkata, WB 700016	India
+S1-00083	Summit Construction 3	15 Broadway, New York, NY 10006	US
+S1-00084	Lotus Textiles 3	22 Anna Salai, Chennai, TN 600002	India
+S1-00085	Vertex Consulting 3 Inc.	15 Broadway, New York, NY 10006	United States
+S1-00086	Sicver Oak Finance 3	14 MG Rd, Bengaluru, KA 560001 Near SBI ATM	IN
+S1-00087	Metro Auto Partsg3	88 Oak Rd, Chicago, IL 60601	US
+S1-00088	Cedar Health Clinic 3 Inc.	14 MG Rd, Bengaluru, KA 560001	IN
+S1-00089	Brigst Spark Education 3	88 Oak Rd, Chicago	US
+S1-00090	Orion Media 3 LLC	22 Anna Salai, Chennai, TN 600002	India
+S1-00091	MAPLE GROCERY 3	12 Main St, Austin, TX 78701	United States
+S1-00092	Atlas Engineering 3 Corporation	22 Anna Salai, Chennai, TN 600002	India
+S1-00093	Phoenix Apparel 3 Corporation	400 Market St, San Francisco, CA 94105 Ste 200	United States
+S1-00094	Canyon Coffee 3	5 Park St, Kolkata, WB 700016 Near SBI ATM	India
+S1-00095	Delta Packaging 3	12 Main St, Austin, TX 78701	US
+S1-00096	Kaveri Mills 3 Pvt Ltd	22 Anna Salai, Chennai	IN
+S1-00097	Gangg Traders 3	400 Market Street, San Francisco, CA 94105	United States
+S1-00098	Sahara Electronics 3 LLC	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00099	Deccan Motors 3	15 Broadway, New York	US
+S1-00100	Himalaya Spices 3	22 Anna Salai, Chennai, TN 600002	India
+S1-00101	Acme Technology 4 LLC	88 Oak Rd, Chicago, IL 60601	US
+S1-00102	Sunrise Foeds 4	22 Anna Salai, Chennai, TN 600002	India
+S1-00103	Blue River Logistics 4	400 Market Street, San Francisco, CA 94105	US
+S1-00104	Pacific Hardware 4 Pvt Ltd	7 Linking Road, Mumbai, MH 400050	India
+S1-00105	Nimbus Software 4 Pvt Ltd	230 Pine Ave, Seattle, WA 98101	United States
+S1-00106	Green Leaf Pharma 4 Corporation	7 Linking Rd, Mumbai	IN
+S1-00107	Harbor Retail 4 Pvt Ltd	400 Market St, San Francisco, CA 94105 Ste 200	US
+S1-00108	Summit Construction 4 Pvt Ltd	5 Park St, Kolkata, WB 700016 Near SBI ATM	IN
+S1-00109	Lotus Textiles 4 Pvt Ltd	88 Oak Rd, Chicago, IL 60601	United States
+S1-00110	Vertex Consulting 4	7 Linking Road, Mumbai, MH 400050	IN
+S1-00111	Silver Oak Finance 4 Pvt Ltd	230 Pine Ave, Seattle, WA 98101	United States
+S1-00112	Metro Auto Parts 4	7 Linking Road, Mumbai	IN
+S1-00113	Cedar Health Clinic 4 Corporation	15 Broadway, New York, NY 10006 Ste 200	United States
+S1-00114	Bright Spark Education 4 Pvt Ltd	22 Anna Salai, Chennai, TN 600002	India
+S1-00115	Oribn Media 4	400 Market St, San Francisco, CA 94105	US
+S1-00116	Maple  Grocery  4	7 Linking Rd, Mumbai, MH 400050	IN
+S1-00117	ATLAS ENGINEERING 4	15 Broadway, New York, NY 10006	US
+S1-00118	Phoenix Apparel 4 Corporation	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00119	Canyon Coffee 4 Pvt Ltd	88 Oak Rd, Chicago, IL 60601 Ste 200	US
+S1-00120	Delta Packaging 4	14 MG Rd, Bengaluru, KA 560001	IN
+S1-00121	Kaveri  Mills  4	12 Main Street, Austin, TX 78701	United States
+S1-00122	Ganga Traders 4 Corporation	5 Park Streetreet, Kolkata, WB 700016	IN
+S1-00123	Sahara  Electronics  4	15 Broadway, New York, NY 10006	United States
+S1-00124	Deccan Motors 4	5 Park Street, Kolkata	IN
+S1-00125	Himalaya Spices 4	400 Market St, San Francisco, CA 94105	United States
+S1-00126	Acme Technology 5	7 Linking Road, Mumbai, MH 400050	India
+S1-00127	Sunrise Foods 5	88 Oak Rd, Chicago, IL 60601	United States
+S1-00128	Blue River Logistics 5 Pvt Ltd	11 Connaught Place, New Delhi, DL 110001	India
+S1-00129	PACIFIC HARDWARE 5	400 Market Streetreet, San Francisco, CA 94105	US
+S1-00130	Nimbus Software 5	22 Anna Salai, Chennai, TN 600002	IN
+S1-00131	Green Leaf Pharma 5 LLC	88 Oak Rd, Chicago, IL 60601	United States
+S1-00132	Harbor Retail 5 Pvt Ltd	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S1-00133	Summit Constquction 5	15 Broadway, New York, NY 10006	US
+S1-00134	Lotus Textiles 5 Corporation	14 MG Road, Bengaluru, KA 560001	India
+S1-00135	Vertex Consulting 5 LLC	230 Pine Ave, Seattle, WA 98101	United States
+S1-00136	Silver Oak Finance 5 Pvt Ltd	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00137	Metro  Auto  Parts  5	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00138	Cedar Health Clinic 5	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00139	Bright Spark Education 5 Inc.	230 Pine Ave, Seattle, WA 98101 Ste 200	United States
+S1-00140	OrionnMedia 5	7 Linking Road, Mumbai, MH 400050	India
+S1-00141	Maple  Grocery  5	230 Pine Ave, Seattle, WA 98101	United States
+S1-00142	Atlas Engineering 5 Inc.	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00143	Phoenix Apparel 5 Pvt Ltd	88 Oak Rd, Chicago, IL 60601 Ste 200	US
+S1-00144	Canyon Coffee 5 Inc.	22 Anna Salai, Chennai, TN 600002	IN
+S1-00145	Delta Packaging 5 Inc.	230 Pine Ave, Seattle, WA 98101 Ste 200	United States
+S1-00146	Kaveri  Mills  5	5 Park St, Kolkata, WB 700016	India
+S1-00147	Ganga Traders 5 Pvt Ltd	400 Market Street, San Francisco, CA 94105	United States
+S1-00148	Sahara Electronics 5	22 Anna Salai, Chennai, TN 600002	India
+S1-00149	DECCAN MOTORS 5	400 Market St, San Francisco	United States
+S1-00150	Himalaya Spices 5 Corporation	5 Park St, Kolkata, WB 700016	IN
+S1-00151	Acmo Technology 6	400 Market St, San Francisco, CA 94105 Ste 200	US
+S1-00152	Sunrise Foods 6	7 Linking Road, Mumbai, MH 400050	India
+S1-00153	Blue River Logistics 6	12 Main St, Austin	United States
+S1-00154	Pacific Hardware 6	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	India
+S1-00155	Nimbus Software 6	400 Market St, San Francisco	United States
+S1-00156	Green Leaf Pharmam6	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	India
+S1-00157	Harbor Retnil 6	12 Main Street, Austin, TX 78701	United States
+S1-00158	Sommit Construction 6	14 MG Road, Bengaluru, KA 560001	India
+S1-00159	Lotus Textiles 6	15 Broadway, New York, NY 10006	United States
+S1-00160	Vertex Consulting 6 LLC	7 Linking Road, Mumbai, MH 400050	IN
+S1-00161	Silver Oak Finance 6 Pvt Ltd	12 Main Street, Austin, TX 78701	US
+S1-00162	Metro Auto Parts 6 LLC	5 Park Streetreet, Kolkata	IN
+S1-00163	Cedar Health Clinic 6	15 Broadway, New York, NY 10006	United States
+S1-00164	Bright Spark Education 6	22 Anna Salai, Chennai	India
+S1-00165	Orion Media 6 LLC	400 Market St, San Francisco	US
+S1-00166	Maple  Grocery  6	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	IN
+S1-00167	Atlas Engineerings6	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00168	Phoenix Apparel 6 Inc.	5 Park St, Kolkata, WB 700016	India
+S1-00169	Canyon Coffee 6	88 Oak Rd, Chicago, IL 60601 Ste 200	United States
+S1-00170	Delta  Packaging  6	11 Connaught Place, New Delhi	India
+S1-00171	Kqveri Mills 6	400 Market Street, San Francisco, CA 94105 Ste 200	US
+S1-00172	Ganga Traders 6	22 Anna Salai, Chennai, TN 600002	IN
+S1-00173	Sahara Electronics 6	88 Oak Rd, Chicago, IL 60601	United States
+S1-00174	Deccan  Motors  6	5 Park Street, Kolkata, WB 700016	IN
+S1-00175	Himalaya Spices 6	88 Oak Rd, Chicago, IL 60601	US
+S1-00176	Acme Technology 7 Pvt Ltd	14 MG Road, Bengaluru, KA 560001	IN
+S1-00177	Sunrise Foods 7 LLC	12 Main St, Austin, TX 78701 Ste 200	United States
+S1-00178	Blue Rivzr Logistics 7	22 Anna Salai, Chennai, TN 600002	IN
+S1-00179	Pacific  Hardware  7	12 Main St, Austin	United States
+S1-00180	Nimbus Software 7	5 Park St, Kolkata Near SBI ATM	IN
+S1-00181	Green Leaf Pharma 7 Inc.	230 Pine Ave, Seattle, WA 98101	United States
+S1-00182	Harbor Retail 7 Pvt Ltd	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	IN
+S1-00183	Summit  Construction  7	230 Pine Ave, Seattle Ste 200	US
+S1-00184	Lotus Textiles 7 Inc.	22 Anna Salai, Chennai, TN 600002	India
+S1-00185	Vertex Consulting 7 Corporation	400 Market Streetreet, San Francisco, CA 94105 Ste 200	US
+S1-00186	Silver Oak Finance 7	11 Connaught Place, New Delhi	IN
+S1-00187	Metro Auto Parts 7	12 Main Street, Austin, TX 78701	United States
+S1-00188	Cedar  Health  Clinic  7	22 Anna Salai, Chennai, TN 600002	India
+S1-00189	Bright  Spark  Education  7	88 Oak Rd, Chicago, IL 60601	United States
+S1-00190	zrion Media 7	22 Anna Salai, Chennai, TN 600002 Near SBI ATM	IN
+S1-00191	Maple  Grocery  7	88 Oak Rd, Chicago, IL 60601	United States
+S1-00192	Atlas ongineering 7	5 Park Streetreet, Kolkata	IN
+S1-00193	Phoenix Apparel 7	12 Main St, Austin	US
+S1-00194	Canyon Coffee 7 LLC	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00195	Delta Packaging 7 Corporation	15 Broadway, New York, NY 10006	US
+S1-00196	KAVERI MILLS 7	5 Park St, Kolkata, WB 700016 Near SBI ATM	IN
+S1-00197	Ganga Traders 7	88 Oak Rd, Chicago, IL 60601	United States
+S1-00198	Sahara  Electronics  7	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00199	Deccan  Motors  7	230 Pine Ave, Seattle, WA 98101	US
+S1-00200	Himalaya Spices 7	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00201	Acme Tech 8	88 Oak Rd, Chicago	US
+S1-00202	Sunrise Foods 8 LLC	11 Connaught Place, New Delhi, DL 110001	IN
+S1-00203	Blue River Logistics 8 Corporation	400 Market Streetreet, San Francisco, CA 94105	US
+S1-00204	Pacific Hardware 8 LLC	5 Park Streetreet, Kolkata, WB 700016 Near SBI ATM	IN
+S1-00205	Nimbus Software 8 Corporation	88 Oak Rd, Chicago	US
+S1-00206	Green Leaf Pharma 8 Pvt Ltd	7 Linking Road, Mumbai, MH 400050	IN
+S1-00207	Harbor Retail 8	15 Broadway, New York Ste 200	United States
+S1-00208	Summit  Construction  8	5 Park Street, Kolkata Near SBI ATM	India
+S1-00209	Lotus Textiles 8 Inc.	15 Broadway, New York, NY 10006	United States
+S1-00210	Vertex Consulting 8 LLC	11 Connaught Place, New Delhi	India
+S1-00211	Silver Oak Finance 8 Corporation	400 Market Streetreet, San Francisco, CA 94105 Ste 200	United States
+S1-00212	Metro Auto Parts 8	11 Connaught Place, New Delhi	India
+S1-00213	CEDAR HEALTH CLINIC 8	12 Main Street, Austin, TX 78701	United States
+S1-00214	Bright Spark Education 8	11 Connaught Place, New Delhi, DL 110001	India
+S1-00215	Orion Media 8 LLC	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-00216	Maple Grocery 8 Corporation	7 Linking Road, Mumbai, MH 400050	IN
+S1-00217	Atlas Engineering 8 Corporation	88 Oak Rd, Chicago, IL 60601	US
+S1-00218	Phoenix Apparel 8	22 Anna Salai, Chennai	India
+S1-00219	CANYON COFFEE 8	400 Market Streetreet, San Francisco, CA 94105	US
+S1-00220	Delta Packaginj 8	5 Park St, Kolkata, WB 700016	India

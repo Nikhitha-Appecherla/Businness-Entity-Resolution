@@ -1,0 +1,121 @@
+entity_id	business_name	business_address	country
+S1-05000	Acme Technology LLC	4 Ave Jean Jaures, 69007 Lyon Ste 200	France
+S1-05001	Sunrise Foods Pvt Ltd	5 Park St, Kolkata, WB 700016	IN
+S1-05002	Blue River Logistics Corporation	15 Broadway, New York, NY 10006	United States
+S1-05003	Pacnfic Hardware	14 MG Rd, Bengaluru, KA 560001	India
+S1-05004	Nimbus Software Pvt Ltd	230 Pine Ave, Seattle	US
+S1-05005	Green Leaf Pharga	4 Avenue Jean Jaures, 69007 Lyon	France
+S1-05006	Harbor  Retail	12 Main St, Austin, TX 78701	United States
+S1-05007	Summit  Construction	22 Anna Salai, Chennai	India
+S1-05008	Lotus  Textiles	88 Oak Rd, Chicago, IL 60601	United States
+S1-05009	Vertex Consulting Pvt Ltd	5 Park Street, Kolkata, WB 700016 Near SBI ATM	IN
+S1-05010	Silver Oak Finance	2 Place Bellecour, Lyon	France
+S1-05011	Matro Auto Parts	5 Park Streetreet, Kolkata, WB 700016	IN
+S1-05012	Cedar Hralth Clinic	88 Oak Rd, Chicago, IL 60601	US
+S1-05013	Bright  Spark  Education	11 Connaught Place, New Delhi, DL 110001	IN
+S1-05014	Orion Media LLC	15 Broadway, New York, NY 10006	United States
+S1-05015	Maple Grochry	10 Rue de Rivoli, 75001 Paris	France
+S1-05016	Atlas Engineering Inc.	15 Broadway, New York, NY 10006	United States
+S1-05017	Phoenix Apparel	5 Park Street, Kolkata	India
+S1-05018	Canyon Coffee LLC	12 Main Street, Austin, TX 78701	United States
+S1-05019	Delta Packaging Pvt Ltd	5 Park St, Kolkata, WB 700016	IN
+S1-05020	Kaveri Mills Corporation	4 Avenue Jean Jaures, 69007 Lyon	France
+S1-05021	Ganga Traders	5 Park Street, Kolkata Near SBI ATM	IN
+S1-05022	Sahara Electronics	88 Oak Rd, Chicago, IL 60601	United States
+S1-05023	Deccan Motors Corporation	11 Connaught Place, New Delhi, DL 110001	India
+S1-05024	Himalaya  Spices	230 Pine Ave, Seattle, WA 98101	United States
+S1-05025	Acme Technology 1 Pvt Ltd	4 Avenue Jean Jaures, 69007 Lyon Ste 200	France
+S1-05026	Sunrise Foods 1 LLC	12 Main Street, Austin, TX 78701 Ste 200	United States
+S1-05027	Blue River Logistics 1 Pvt Ltd	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S1-05028	Pacific Hardware 1 Inc.	88 Oak Rd, Chicago, IL 60601	US
+S1-05029	Nimbus Software 1 Corporation	5 Park Street, Kolkata, WB 700016	India
+S1-05030	Green Leaf Pharma 1	4 Avenue Jean Jaures, 69007 Lyon Ste 200	France
+S1-05031	HARBOR RETAIL 1	14 MG Road, Bengaluru	IN
+S1-05032	Summit ionstruction 1	230 Pine Ave, Seattle, WA 98101	US
+S1-05033	Lotus Textiles 1	14 MG Road, Bengaluru, KA 560001	India
+S1-05034	Vertex Consulting 1 Pvt Ltd	400 Market Streetreet, San Francisco, CA 94105	US
+S1-05035	Silver Oak Finance 1	18 Boulevard de la Liberte, Lille	France
+S1-05036	Metro Auto Parts 1	230 Pine Ave, Seattle, WA 98101 Ste 200	US
+S1-05037	Cedar Health Clinic 1	11 Connaught Place, New Delhi	India
+S1-05038	Bright Spark Education 1 Inc.	88 Oak Rd, Chicago	US
+S1-05039	Orion Media 1 Corporation	5 Park Streetreet, Kolkata, WB 700016	IN
+S1-05040	MAPLE GROCERY 1	4 Ave Jean Jaures, Lyon	France
+S1-05041	Atlas Engineering 1	11 Connaught Place, New Delhi Near SBI ATM	India
+S1-05042	Phoenix Apparel 1	230 Pine Ave, Seattle	United States
+S1-05043	Canyon Coffee 1 Inc.	22 Anna Salai, Chennai, TN 600002	IN
+S1-05044	Delta Packaging 1 Pvt Ltd	400 Market Streetreet, San Francisco, CA 94105	United States
+S1-05045	Kaveri Mills 1 Corporation	2 Place Bellecour, 69002 Lyon Ste 200	France
+S1-05046	Ganga Truders 1	88 Oak Rd, Chicago, IL 60601	United States
+S1-05047	Sahara Electronics 1 Inc.	11 Connaught Place, New Delhi, DL 110001	India
+S1-05048	Deccan Motors 1 Corporation	12 Main St, Austin Ste 200	United States
+S1-05049	Himalaya Spices 1 Pvt Ltd	5 Park Streetreet, Kolkata	IN
+S1-05050	Acme Technology 2 Pvt Ltd	9 Rue Sainte Catherine, 33000 Bordeaux	France
+S1-05051	Sunrise Foods 2	22 Anna Salai, Chennai, TN 600002	India
+S1-05052	Blue  River  Logistics  2	12 Main St, Austin, TX 78701 Ste 200	US
+S1-05053	Pacific Hardware 2	5 Park Street, Kolkata	IN
+S1-05054	Nimbus Software 2 Pvt Ltd	400 Market St, San Francisco, CA 94105	US
+S1-05055	Green Leaf Pharma 2	18 Boulevard de la Liberte, 59000 Lille Ste 200	France
+S1-05056	Harbor Retazl 2	400 Market Street, San Francisco	US
+S1-05057	Summit Construction 2	22 Anna Salai, Chennai, TN 600002	India
+S1-05058	Lotus Textiles 2 Corporation	230 Pine Ave, Seattle, WA 98101	US
+S1-05059	VERTEX CONSULTING 2	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S1-05060	Silver Oak Finance 2 Pvt Ltd	4 Avenue Jean Jaures, 69007 Lyon Ste 200	France
+S1-05061	METRO AUTO PARTS 2	7 Linking Road, Mumbai, MH 400050 Near SBI ATM	India
+S1-05062	CEDAR HEALTH CLINIC 2	15 Broadway, New York, NY 10006	United States
+S1-05063	Bright Spark Education 2	14 MG Rd, Bengaluru, KA 560001	India
+S1-05064	Orion Media 2	230 Pine Ave, Seattle, WA 98101	United States
+S1-05065	Maple  Grocery  2	9 Rue Sainte Catherine, 33000 Bordeaux	France
+S1-05066	Atlas Engineering 2 Corporation	230 Pine Ave, Seattle, WA 98101	US
+S1-05067	Phmenix Apparel 2	5 Park Streetreet, Kolkata, WB 700016	India
+S1-05068	Canyon Coffee 2 Pvt Ltd	12 Main St, Austin, TX 78701	US
+S1-05069	Delta Packaging 2 Inc.	22 Anna Salai, Chennai, TN 600002	India
+S1-05070	Kaveri  Mills  2	9 Rue Sainte Catherine, 33000 Bordeaux	France
+S1-05071	Ganga Traders 2 Pvt Ltd	11 Connaught Place, New Delhi, DL 110001	India
+S1-05072	Sahara Electronics 2 Corporation	88 Oak Rd, Chicago, IL 60601	US
+S1-05073	Deccan Motors 2 Corporation	22 Anna Salai, Chennai Near SBI ATM	IN
+S1-05074	Himalaya Spices 2 Pvt Ltd	15 Broadway, New York	US
+S1-05075	Acme Technology 3	18 Boulevard de la Liberte, Lille Ste 200	France
+S1-05076	Sunrise Foods 3	15 Broadway, New York, NY 10006	US
+S1-05077	Blue River Logistics 3	11 Connaught Place, New Delhi, DL 110001	India
+S1-05078	Pacific Hardware 3 LLC	400 Market St, San Francisco, CA 94105	United States
+S1-05079	Nimbus  Software  3	11 Connaught Place, New Delhi, DL 110001 Near SBI ATM	IN
+S1-05080	Green Leaf Pharma 3	4 Avenue Jean Jaures, Lyon Ste 200	France
+S1-05081	Harbor Retaim 3	11 Connaught Place, New Delhi	IN
+S1-05082	SUMMIT CONSTRUCTION 3	12 Main St, Austin, TX 78701 Ste 200	United States
+S1-05083	Lotus Textiles 3	5 Park St, Kolkata	IN
+S1-05084	Vertex Consultiny 3	88 Oak Rd, Chicago, IL 60601	United States
+S1-05085	Silver  Oak  Finance  3	2 Place Bellecour, 69002 Lyon Ste 200	France
+S1-05086	METRO AUTO PARTS 3	15 Broadway, New York Ste 200	US
+S1-05087	Cedar Health Clinic 3	5 Park Street, Kolkata Near SBI ATM	IN
+S1-05088	Bright Spark Education 3 Corporation	400 Market St, San Francisco, CA 94105 Ste 200	United States
+S1-05089	Orikn Media 3	7 Linking Rd, Mumbai, MH 400050	India
+S1-05090	Maple  Grocery  3	4 Avenue Jean Jaures, Lyon	France
+S1-05091	Atlas Engineering 3	22 Anna Salai, Chennai, TN 600002	IN
+S1-05092	Phoenix Apparel 3	400 Market Streetreet, San Francisco Ste 200	US
+S1-05093	Canyon  Coffee  3	14 MG Road, Bengaluru, KA 560001	India
+S1-05094	Delta Packyging 3	15 Broadway, New York, NY 10006 Ste 200	United States
+S1-05095	Kaveri Mills 3 Pvt Ltd	9 Rue Sainte Catherine, 33000 Bordeaux Ste 200	France
+S1-05096	Ganga  Traders  3	230 Pine Ave, Seattle, WA 98101	US
+S1-05097	Sahara  Electronics  3	22 Anna Salai, Chennai, TN 600002	IN
+S1-05098	DECCAN MOTORS 3	230 Pine Ave, Seattle	United States
+S1-05099	HIMALAYA SPICES 3	14 MG Road, Bengaluru, KA 560001	India
+S1-05100	Acme Tech 4	4 Ave Jean Jaures, Lyon	France
+S1-05101	Sjnrise Foods 4	11 Connaught Place, New Delhi, DL 110001	IN
+S1-05102	Blue River Logistics 4 Inc.	230 Pine Ave, Seattle, WA 98101	United States
+S1-05103	Pacific  Hardware  4	11 Connaught Place, New Delhi, DL 110001	India
+S1-05104	Nimbus Software 4	88 Oak Rd, Chicago, IL 60601	United States
+S1-05105	Green Leaf Pharma 4	18 Boulevard de la Liberte, 59000 Lille	France
+S1-05106	Harbor Retail 4 Corporation	88 Oak Rd, Chicago, IL 60601	US
+S1-05107	Summit Construction 4 Inc.	14 MG Road, Bengaluru, KA 560001 Near SBI ATM	IN
+S1-05108	Lotus Textiles 4 LLC	12 Main St, Austin, TX 78701	US
+S1-05109	Vertex Consulting 4	5 Park Street, Kolkata, WB 700016 Near SBI ATM	India
+S1-05110	Silver Oak Finanne 4	18 Boulevard de la Liberte, Lille Ste 200	France
+S1-05111	Metro Auto Pakts 4	7 Linking Road, Mumbai	India
+S1-05112	Cedar Health Clinic 4 LLC	88 Oak Rd, Chicago, IL 60601	United States
+S1-05113	Bright Spark Education 4 Inc.	14 MG Road, Bengaluru, KA 560001	India
+S1-05114	Orion Media 4 Pvt Ltd	230 Pine Ave, Seattle	US
+S1-05115	Maple  Grocery  4	9 Rue Sainte Catherine, Bordeaux	France
+S1-05116	Atlas Engineering 4	400 Market Streetreet, San Francisco, CA 94105 Ste 200	US
+S1-05117	Phoenix Apparel 4 Pvt Ltd	5 Park Street, Kolkata, WB 700016	IN
+S1-05118	Canyon Coffee 4 Corporation	12 Main St, Austin, TX 78701 Ste 200	US
+S1-05119	Delta Packaging 4 Pvt Ltd	5 Park St, Kolkata, WB 700016	India
